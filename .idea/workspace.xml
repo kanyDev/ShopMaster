@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af883b50-cfaa-48e6-ac56-7c49d0a5e094" name="Changes" comment="A#3 본문 푸터 추가" />
+    <list default="true" id="af883b50-cfaa-48e6-ac56-7c49d0a5e094" name="Changes" comment="A#8 about 메뉴" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +40,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -78,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716858469940</updated>
-      <workItem from="1716858471217" duration="5205000" />
+      <workItem from="1716858471217" duration="6882000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Comment">
       <option name="closed" value="true" />
@@ -128,7 +129,23 @@
       <option name="project" value="LOCAL" />
       <updated>1716860581678</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="A#5 기사">
+      <option name="closed" value="true" />
+      <created>1716865452928</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1716865452928</updated>
+    </task>
+    <task id="LOCAL-00008" summary="A#8 about 메뉴">
+      <option name="closed" value="true" />
+      <created>1716866371596</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1716866371596</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,7 +162,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -161,6 +178,8 @@
     <MESSAGE value="Initial Comment" />
     <MESSAGE value="A#2 header 추가" />
     <MESSAGE value="A#3 본문 푸터 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="A#3 본문 푸터 추가" />
+    <MESSAGE value="A#5 기사" />
+    <MESSAGE value="A#8 about 메뉴" />
+    <option name="LAST_COMMIT_MESSAGE" value="A#8 about 메뉴" />
   </component>
 </project>
